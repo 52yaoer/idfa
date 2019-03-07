@@ -1,0 +1,7 @@
+[
+ {
+    "name":"idfa",
+    "class":"IDFAModule",
+    "syncMethods":["getIDFA"]
+ }
+]
